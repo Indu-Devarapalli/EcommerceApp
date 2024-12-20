@@ -14,7 +14,7 @@ FashionEcommerceApp is a stylish, user-friendly shopping application that allows
 * CocoaPods (for iOS dependencies) 
 * Android Studio (for Android development)
 
-  ## Project Structure
+## Project Structure
 ```bash
 FashionEcommerceApp/
 │
@@ -78,7 +78,7 @@ npx react-native run-ios
 * The app is fully responsive and works smoothly on both Android and iOS devices.
 
 ## Demo Video
-
+https://github.com/user-attachments/assets/7d3e6790-aed2-42da-bccf-d73dd53299e4
 
 
 
